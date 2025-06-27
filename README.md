@@ -1,7 +1,5 @@
-Que 1
 
-
-QUE 2:
+# QUE 1: ###################
 orders
 order_id	customer_id	product_id	quantity
 1	101	1001	2
@@ -23,7 +21,7 @@ product_id	name	price
 
 
 
-# Que 3 ###################
+# Que 2 ###################
 SQL JOINS2.sql
 
 Tables:
@@ -101,12 +99,12 @@ Tasks
 1. Top 2 Students per Subject
 Return students with top 2 marks per subject from scores. Use DENSE_RANK().
 
-📌 Output: name, subject, marks
+Output: name, subject, marks
 
 2. Below Class Average
 Find students whose marks in scores are below their class+subject average.
 
-📌 Output: name, subject, marks
+Output: name, subject, marks
 
 3. Class Toppers with Tier
 Return top scorer per class and subject from scores, with:
@@ -117,7 +115,7 @@ Good if ≥ 75
 
 Average otherwise
 
-📌 Output: name, class_name, subject, marks, performance_tier
+Output: name, class_name, subject, marks, performance_tier
 
 4. Most Improved Student
 From test_scores, find per class+subject the student with highest (MAX - MIN) marks. Add tier:
@@ -130,5 +128,5 @@ Slight if ≥ 1
 
 No Improvement otherwise
 
-📌 Output: name, class_name, subject, improvement, performance_tier
+Output: name, class_name, subject, improvement, performance_tier
 
