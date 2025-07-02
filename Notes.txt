@@ -1,1 +1,8 @@
+
 JOINS<https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/>
+GroupBy<https://www.geeksforgeeks.org/sql/sql-group-by/>
+
+
+#Theories
+TierArchitecture <https://www.geeksforgeeks.org/dbms/dbms-architecture-2-level-3-level/>
+Normalization<https://www.geeksforgeeks.org/dbms/normal-forms-in-dbms/>
